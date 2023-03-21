@@ -2,7 +2,7 @@
 👷 -----------------------🏗️
 
 #### Olá! Eu sou o Sergio Junior. ✌️
-
+Profissional da área de Tecnologia da Informação, focado no Desenvolvimento Web e Programador de jogos.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiojuniorpt/)
 
