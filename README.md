@@ -1,5 +1,5 @@
 ## 🚧 Under construction 🚧
-👷 Deadline for 3 days 🏗️
+👷 -----------------------🏗️
 
 #### Olá! Eu sou o Sergio Junior. ✌️
 
